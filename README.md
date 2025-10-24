@@ -1,5 +1,5 @@
 # 💫 About Me:
-👦 My name is Sihathun and i am 19 years old<br>🖥️ Software Engineering Student From Cambodia<br>👨‍💻 Programming and trying out new things are my passions<br>⚽ I love football (Not the American kind)
+👦 My name is Sihathun<br>🖥️ Software Engineering Student From Cambodia<br>👨‍💻 Programming and trying out new things are my passions<br>⚽ I love football (Not the American kind)
 
 
 # 💻 Tech Stack:
